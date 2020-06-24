@@ -1,0 +1,2 @@
+class Ephemere:
+    pass

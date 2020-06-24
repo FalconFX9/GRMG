@@ -1,0 +1,6 @@
+Les contrôles du jeu:
+WASD ou les flèches directionnelles pour se déplacer
+ESPACE pour interagir avec les coffres ou les entités et lancer les batailles
+Dans le cas du boss, la bataille est lancée sur collision
+Le jeu sauve automatiquement lorsque la fenêtre est fermée ou la touche ECHAP est pesée.
+Le jeu ne peux pas être quitté lors d'un combat.

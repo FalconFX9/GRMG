@@ -1,0 +1,2 @@
+class AutonomieCiblée:
+    pass

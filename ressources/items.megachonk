@@ -1,0 +1,51 @@
+item Small_Sword
+id 91
+attaque 5
+armure 0
+prix 500
+type 0
+/item
+item Big_Sword
+id 92
+attaque 30
+armure 0
+prix 1500
+type 0
+/item
+item Fire_Sword
+id 103
+attaque 100
+armure 0
+prix 5000
+/item
+item Côte_de_Mailles
+id 126
+attaque 0
+armure 20
+prix 1000
+type 1
+/item
+item Armure_Dorée
+id 131
+attaque 0
+armure 40
+prix 10000
+/item
+item Casque_Viking
+id 123
+attaque 15
+armure 5
+prix 1000
+/item
+item Bottes_Dorées
+id 132
+attaque 0
+armure 15
+prix 3000
+/item
+item Diamand
+id 42
+attaque 0
+armure 0
+prix 10000
+/item
