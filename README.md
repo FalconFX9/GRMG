@@ -15,4 +15,6 @@ pip install pygame
 
 If python has not been added to the PATH environnement variable, follow a tutorial on how to add it to the PATH.
 
+Oh, and run the "jeu.py" file to start.
+
 Have fun!
